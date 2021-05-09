@@ -1,0 +1,23 @@
+{
+    "name": "start-webpack",
+    "version": "1.0.0",
+    "description": "Learning resources for the webpack",
+    "main": "index.js",
+    "scripts": {
+        "serve": "http-server ./"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/MohamedHiggy/startingWebpack"
+    },
+    "keywords": [],
+    "author": "mohamedHiggy",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/MohamedHiggy/startingWebpack/issues"
+    },
+    "homepage": "https://github.com/MohamedHiggy/startingWebpack#readme",
+    "devDependencies": {
+        "http-server": "^0.11.1"
+    }
+}
